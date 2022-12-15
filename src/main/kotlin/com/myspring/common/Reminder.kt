@@ -1,4 +1,4 @@
-package com.myspring
+package com.myspring.common
 
 import javax.persistence.Column
 import javax.persistence.Entity
